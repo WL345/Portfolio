@@ -13,7 +13,8 @@
 
 ## My Work
 
-If you're here, I bet you want to see what I've done. Well you're partly in the right place, but for some more context, go to my website!<br>> I wouldn't recommend stealing any of these things, as most aren't that impressive and won't land you that job!
+If you're here, I bet you want to see what I've done. Well you're partly in the right place, but for some more context, go to my website!<be>
+</small>I wouldn't recommend stealing any of these things, as most aren't that impressive and won't land you that job!</small>
 
 <p align="center">
   <a href="https://whitelisted.dev" target="_blank">
