@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm WL</h1>
 
 <p align="center">
-  <strong>Student • Developer</strong>
+  <strong>_Student • Developer_</strong>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## My Work
 
-If you're here, I bet you want to see what I've done. Well you're partly in the right place, but for some more context, go to my website!
+If you're here, I bet you want to see what I've done. Well you're partly in the right place, but for some more context, go to my website!<br>> I wouldn't recommend stealing any of these things, as most aren't that impressive and won't land you that job!
 
 <p align="center">
   <a href="https://whitelisted.dev" target="_blank">
