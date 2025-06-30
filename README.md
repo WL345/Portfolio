@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm WL</h1>
 
 <p align="center">
-  <strong>_Student • Developer_</strong>
+  <strong>Student • Developer</strong>
 </p>
 
 <p align="center">
